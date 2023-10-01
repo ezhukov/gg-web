@@ -138,12 +138,12 @@ link = "https://google.com"
 
 
 ################################ English Language ########################
-[languages]
+#[languages]
 [languages.en]
 languageName = "En"
 languageCode = "en-us"
 contentDir = "content/english"
 weight = 1
 home = "Home"
-copyright = "Copyright &copy; 2023 Geen Glacier"
+copyright = "Copyright &copy; 2023 Green Glacier"
 
