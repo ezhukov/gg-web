@@ -52,15 +52,15 @@ weight = 1
 #url = "#services"
 #weight = 2
 
-#[[Languages.en.menu.main]]
-#name = "portfolio"
-#url = "#portfolio"
-#weight = 3
-
 [[Languages.en.menu.main]]
-name = "partners"
-url = "#partners"
+name = "testimonials"
+url = "#testimonials"
 weight = 2
+
+#[[Languages.en.menu.main]]
+#name = "partners"
+#url = "#partners"
+#weight = 2
 
 #[[Languages.en.menu.main]]
 #name = "pricing"
@@ -138,7 +138,8 @@ link = "https://google.com"
 
 
 ################################ English Language ########################
-[Languages.en]
+[languages]
+[languages.en]
 languageName = "En"
 languageCode = "en-us"
 contentDir = "content/english"

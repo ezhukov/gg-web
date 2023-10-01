@@ -1,6 +1,6 @@
 ############################### partners ############################
 partners:
-  enable : true
+  enable : false
   title : Our Partners
   partner :
     - name : Coventures
