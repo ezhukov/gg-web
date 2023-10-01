@@ -1,0 +1,11 @@
+############################# call to action ##############################
+cta:
+  enable : true
+  bg_image : "images/backgrounds/bg-white-wall-stucco.jpg"
+  bg_image_webp : "images/backgrounds/bg-white-wall-stucco.webp"
+  title : "Understanding the whole stack"
+  content : "We deep dive into your application logic and requirements to come up with best in class infrastructure with a suitable cloud provider at optimal cost."
+  button:
+    enable : true
+    label : "Reach Out"
+    link : "#contact"

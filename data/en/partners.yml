@@ -1,0 +1,12 @@
+############################### partners ############################
+partners:
+  enable : true
+  title : Our Partners
+  partner :
+    - name : Coventures
+      url : https://coventures.io
+      image : images/partners/coventures.png
+
+    - name : Business Finland
+      url : https://www.businessfinland.fi
+      image : images/partners/bf.webp

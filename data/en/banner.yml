@@ -1,0 +1,12 @@
+############################### Banner ################################
+banner:
+  enable : true
+  bg_image_webp : "images/backgrounds/office.webp"
+  bg_image : "images/backgrounds/office.jpg"
+  icon : "" # themify icon pack : https://themify.me/themify-icons
+  title : "Unbiased cloud consulting"
+  content: Public cloud provider choice made easy. Simple and light weight cloud infrastructure solutions tailored exactly for the case.
+  button:
+    enable : true
+    label : "Explore"
+    link : "#about"
