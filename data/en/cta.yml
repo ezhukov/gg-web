@@ -3,8 +3,8 @@ cta:
   enable : true
   bg_image : "images/backgrounds/bg-white-wall-stucco.jpg"
   bg_image_webp : "images/backgrounds/bg-white-wall-stucco.webp"
-  title : "Understanding the whole stack"
-  content : "We deep dive into your application logic and requirements to come up with best in class infrastructure with a suitable cloud provider at optimal cost."
+  title : "Understanding the big picture"
+  content : "We have been working on release process optimization for years with different customer projects, cloud vendors, distributed international teams, legacy software, etc."
   button:
     enable : true
     label : "Reach Out"
