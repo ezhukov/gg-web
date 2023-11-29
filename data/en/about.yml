@@ -4,15 +4,14 @@ about:
   title : about us
   about_item :
   - icon : ti-time # themify icon pack : https://themify.me/themify-icons
-    title : Present Day
-    content : Are you facing the uncertainty of how to move forward with this new cloudification thing? Feeling anxious because things can go over budget?
+    title : The what
+    content : We can help you achive the above, by implementing the chenges in your tools, processes and software.
 
   - icon : ti-help # themify icon pack : https://themify.me/themify-icons
-    title : The Choice
-    content : Choosing a cloud provider and moving your app to the cloud doesn't have to be a struggle. Regardless of what you're trying to achieve as an organization we can help you build the right platform.
+    title : CI
+    content : Continuous integration is the key to deliver software changes quickly and reliably.
 
   - icon : ti-hand-point-down # themify icon pack : https://themify.me/themify-icons
-    title : Made Unbiased
-    content : We do not partner with public cloud providers for money. We help customers choose the right one for their case. We do careful cost benefit evaluation.
-      #We make sure it is the most (cost) efficient option.
+    title : SCM
+    content : Proper source code management and branching are instrumental too.
 

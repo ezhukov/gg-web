@@ -4,25 +4,25 @@ feature:
   image : images/about/about-business-man.jpg
   image_webp : images/about/about-business-man.webp
   title : Not another DevOps company
-  content : "Our approach is to focus on your tech stack and gather the data like CPU, memory and storage consumption. We then use this data to pick the most suitable services from a cloud provider. For example we use Azure Retail Prices API and AWS Price List API to programmatically find the best option."
+  content : "Continuous integration, achieved through build, test and deploy automation is an important part of the software development process. It is naturally assumed to be part of DevOps, but DevOps engineering now is mostly about public cloud technologies like Amazon AWS and infrastructure as a code."
 
   feature_item : 
       # feature item loop
-    - title : Application First
+    - title : Time to market
       icon : ti-user # themify icon pack : https://themify.me/themify-icons
-      content : It is hugely important to assess the application resource consumption and utilization before considering any public cloud.
+      content : By implementing our suggested changes, not only time to market will be cut, but the whole release process will require less resources.
       
       # feature item loop
-    - title : Cloud Infrastructure
+    - title : SCM
       icon : ti-cloud # themify icon pack : https://themify.me/themify-icons
-      content : Fit for purpose. No bloat, no upsell because of cloud vendor paid partnerships.
+      content : Source code management with clear development workflow.
 
       # feature item loop
-    - title : Automation
+    - title : CI
       icon : ti-reload # themify icon pack : https://themify.me/themify-icons
-      content : Flawless and regular application and infrastructure updates as often as needed, as easy as it can be.
+      content : Continuous integration with short feedback loop.
       
       # feature item loop
-    - title : Cost & Performance Optimization
+    - title : Profit
       icon : ti-money # themify icon pack : https://themify.me/themify-icons
-      content : Observe, measure and reconfigure the whole solution based on production usage data.
+      content : Well oiled machine of delivering regular software updates to your customers.
