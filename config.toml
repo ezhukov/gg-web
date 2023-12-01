@@ -55,17 +55,17 @@ weight = 1
 [[Languages.en.menu.main]]
 name = "testimonials"
 url = "#testimonials"
-weight = 2
+weight = 3
 
 #[[Languages.en.menu.main]]
 #name = "partners"
 #url = "#partners"
 #weight = 2
 
-#[[Languages.en.menu.main]]
-#name = "pricing"
-#url = "#pricing"
-#weight = 5
+[[Languages.en.menu.main]]
+name = "team"
+url = "#team"
+weight = 2
 
 #[[Languages.en.menu.main]]
 #name = "blog"
@@ -75,7 +75,7 @@ weight = 2
 [[Languages.en.menu.main]]
 name = "contact"
 url = "#contact"
-weight = 3
+weight = 4
 
 #[[Languages.en.menu.main]]
 #name = "themefisher"
@@ -87,7 +87,7 @@ weight = 3
 logo = "images/logo.png"
 # Meta data
 description = "Boost your release process, cut time to market, cut expenses!"
-author = "Themefisher"
+#author = "Themefisher"
 # Google Analytics
 #google_analytics_id = "UA-204269546-1"
 # post share

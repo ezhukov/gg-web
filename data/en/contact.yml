@@ -2,8 +2,8 @@
 contact:
   enable : true
   title : Contact Us
-  subtitle : Contact Details
-  content : "Please contact us by sending email via the following form:"
+  subtitle : To reach us, email contact@greengalcier.tech
+    #  content : To reach us, email contact@greengalcier.tech
 
   # Contact details
   #  contact_list:
@@ -13,7 +13,7 @@ contact:
 
   # Contact form
   contact_form:
-    enable : true
+    enable : false
     form_action : https://formspree.io/f/xgernwvn
     name : "Your Name"
     email : "Your Email"
