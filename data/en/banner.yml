@@ -1,10 +1,10 @@
 ############################### Banner ################################
 banner:
   enable : true
-  bg_image_webp : "images/backgrounds/office.webp"
-  bg_image : "images/backgrounds/office.jpg"
+  bg_image_webp : "images/backgrounds/bckgrnd.webp"
+    #  bg_image : "images/backgrounds/office.jpg"
   icon : "" # themify icon pack : https://themify.me/themify-icons
-  title : "Boost your software release process"
+  title : "Frequent software releases. Painlessly. With a click of a button."
   content: Cut time to market, cut expenses, improve developer experience, most importantly deliver timely updates to your customers! How we do it?
   button:
     enable : true
