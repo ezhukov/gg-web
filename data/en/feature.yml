@@ -1,8 +1,7 @@
 ############################# feature ###################################
 feature:
   enable : true
-  image : images/about/about-business-man.jpg
-  image_webp : images/about/about-business-man.webp
+  image_webp : images/about/abstraction.webp
   title : Not another DevOps company
   content : "Continuous integration, achieved through build, test and deploy automation is an important part of the software development process. It is naturally assumed to be part of DevOps, but DevOps engineering now is mostly about public cloud technologies like Amazon AWS and infrastructure as a code."
 
