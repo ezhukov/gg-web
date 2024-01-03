@@ -3,8 +3,8 @@ banner:
   enable : true
   bg_image_webp : "images/backgrounds/bckgrnd.webp"
   title : "Frequent software releases. Painlessly. With a click of a button."
-  content: Release early. Release often. Cut time to market, cut expenses, improve developer experience, most importantly deliver timely updates to your customers! How we do it?
+  content: Release early. Release often. Cut time to market, cut expenses, deliver timely updates to your customers! Check out how we do it!
   button:
     enable : true
-    label : "Explore"
-    link : "#about"
+    label : "Contact us"
+    link : "#contact"
