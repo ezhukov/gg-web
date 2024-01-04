@@ -549,7 +549,7 @@ a:hover {
   About us section
 ==================================================================*/
 .about .block {
-  background: #04319b;
+  background: #242930;
   padding: 30px;
   border-bottom: 2px solid transparent;
   transition: .5s all;
@@ -1129,7 +1129,7 @@ a:hover {
 }
 
 .member-meta span {
-  font-size: 12px;
+  font-size: 22px;
 }
 
 /*=================================================================
@@ -1577,7 +1577,7 @@ input#e-mail,
 
 .copyright img {
   margin-bottom: 15px;
-  width: 300px;
+  width: 200px;
   height: auto;
 }
 
