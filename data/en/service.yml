@@ -1,7 +1,7 @@
 ################################# Service #################################
 service:
   enable : true
-  title : The Benefits
+  title : Our Services
   service_item :
     # service item loop
     - name : WordPress Theme

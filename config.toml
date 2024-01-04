@@ -57,15 +57,20 @@ name = "testimonials"
 url = "#testimonial"
 weight = 2
 
-#[[Languages.en.menu.main]]
-#name = "partners"
-#url = "#partners"
-#weight = 2
+[[Languages.en.menu.main]]
+name = "services"
+url = "#services"
+weight = 3
+
+[[Languages.en.menu.main]]
+name = "skills"
+url = "#skills"
+weight = 4
 
 [[Languages.en.menu.main]]
 name = "team"
 url = "#team"
-weight = 3
+weight = 5
 
 #[[Languages.en.menu.main]]
 #name = "blog"
@@ -75,7 +80,7 @@ weight = 3
 [[Languages.en.menu.main]]
 name = "contact"
 url = "#contact"
-weight = 4
+weight = 6
 
 #[[Languages.en.menu.main]]
 #name = "themefisher"
