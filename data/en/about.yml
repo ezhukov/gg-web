@@ -3,15 +3,15 @@ about:
   enable : true
   title : about us
   about_item :
-  - icon : ti-time # themify icon pack : https://themify.me/themify-icons
-    title : The what
-    content : We can help you achive the above, by implementing the chenges in your tools, processes and software.
+  - icon : ti-angle-double-right # themify icon pack : https://themify.me/themify-icons
+    title : Streamline Your Software Release
+    content : Discover the power of automation and continuous integration with Green Glacier. Transform your software delivery, saving time and resources while enhancing quality and developer experience.
 
-  - icon : ti-help # themify icon pack : https://themify.me/themify-icons
-    title : CI
-    content : Continuous integration is the key to deliver software changes quickly and reliably.
+  - icon : ti-rocket # themify icon pack : https://themify.me/themify-icons
+    title : Revolutionize with DevOps
+    content : Embrace the future of software development. Our DevOps approach ensures rapid, reliable software updates and feature releases, keeping you ahead in the competitive tech landscape.
 
-  - icon : ti-hand-point-down # themify icon pack : https://themify.me/themify-icons
-    title : SCM
-    content : Proper source code management and branching are instrumental too.
+  - icon : ti-infinite # themify icon pack : https://themify.me/themify-icons
+    title : Optimize with Continuous Integration
+    content : Overcome release delays and technical debt. Our expertise in continuous integration and automated testing helps you smoothly refactor and upgrade your software, ensuring seamless integration and deployment.
 

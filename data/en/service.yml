@@ -4,31 +4,31 @@ service:
   title : Our Services
   service_item :
     # service item loop
-    - name : WordPress Theme
+    - name : "Streamlined Release Management"
       icon : ti-world # themify icon pack : https://themify.me/themify-icons
-      content : Lorem ipsum dolor sit amet, consectetur.. Sed id lorem eget orci dictum facilisis vel id tellus.Nullam iaculis arcu at mauris dapibus consectetur.
+      content : "Tackle release delays with our streamlined approach, reduce the manual effort, implement efficient and automated workflows."
       
     # service item loop
-    - name : Responsive Design
+    - name : "Managing Legacy Software"
       icon : ti-layout # themify icon pack : https://themify.me/themify-icons
-      content : Lorem ipsum dolor sit amet, consectetur.. Sed id lorem eget orci dictum facilisis vel id tellus.Nullam iaculis arcu at mauris dapibus consectetur.
+      content : "Implementing continuous integration and automated testing to gradually refactor and reduce technical debt without needing a complete rewrite."
       
     # service item loop
-    - name : Media &amp; Advertisement
+    - name : "Feature Integration Assistance"
       icon : ti-blackboard # themify icon pack : https://themify.me/themify-icons
-      content : Lorem ipsum dolor sit amet, consectetur.. Sed id lorem eget orci dictum facilisis vel id tellus.Nullam iaculis arcu at mauris dapibus consectetur.
+      content : "Utilizing feature flags to integrate new features early in the development process, avoiding integration problems at the release stage."
       
     # service item loop
-    - name : Graphic Design
+    - name : "Complex Branching Strategies"
       icon : ti-palette # themify icon pack : https://themify.me/themify-icons
-      content : Lorem ipsum dolor sit amet, consectetur.. Sed id lorem eget orci dictum facilisis vel id tellus.Nullam iaculis arcu at mauris dapibus consectetur.
+      content : "Simplifying development processes by minimizing complex branching strategies, focusing on continuous release of features and fixes."
       
     # service item loop
-    - name : Apps Development
+    - name : "Managing Technical Debt"
       icon : ti-package # themify icon pack : https://themify.me/themify-icons
-      content : Lorem ipsum dolor sit amet, consectetur.. Sed id lorem eget orci dictum facilisis vel id tellus.Nullam iaculis arcu at mauris dapibus consectetur.
+      content : "Offering solutions to identify and systematically reduce technical debt through continuous integration and automated testing, enabling more manageable and maintainable code over time."
       
     # service item loop
-    - name : Networking
+    - name : "Easy Software Deployments"
       icon : ti-pulse # themify icon pack : https://themify.me/themify-icons
-      content : Lorem ipsum dolor sit amet, consectetur.. Sed id lorem eget orci dictum facilisis vel id tellus.Nullam iaculis arcu at mauris dapibus consectetur.
+      content : "Reduce delays caused by fragmented code repos and last-minute integration issues. Ensure consistent and reliable software deployments."
