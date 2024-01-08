@@ -1,7 +1,7 @@
 ############################### Banner ################################
 banner:
   enable : true
-  bg_image_webp : "images/backgrounds/bckgrnd.webp"
+  bg_image_webp : "images/backgrounds/people.webp"
   title : "Frequent software releases. Painlessly. With a click of a button."
   content: Release early. Release often. Cut time to market, cut expenses, deliver timely updates to your customers! Check out how we do it!
   button:

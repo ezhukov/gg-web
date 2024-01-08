@@ -445,11 +445,12 @@ a:hover {
   display: flex;
   justify-content: center;
   align-items: center;
+  background-position: center;
 }
 
 .hero-area:before {
   content: '';
-  background: rgba(0, 0, 0, 0.3);
+  background: rgba(0, 0, 0, 0.5);
   position: absolute;
   top: 0;
   right: 0;
