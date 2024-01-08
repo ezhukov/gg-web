@@ -4,8 +4,8 @@ cta:
   bg_image : "images/backgrounds/bg-white-wall-stucco.jpg"
   bg_image_webp : "images/backgrounds/bg-white-wall-stucco.webp"
   title : Transform Your Software Releases Today!
-  content : "Ready to redefine your software release process? Connect with Green Glacier and embrace a future of streamlined, reliable, and innovative software delivery. Click here to start your journey towards efficiency and excellence in software development. Let's innovate together!"
+  content : "Ready to redefine your software release process? Connect with Green Glacier and embrace a future of streamlined, reliable, and innovative software delivery."
   button:
     enable : true
-    label : "Reach Out"
+    label : "Contact us"
     link : "#contact"

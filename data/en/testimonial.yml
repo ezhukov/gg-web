@@ -1,7 +1,7 @@
 ################################# Testimonial #########################
 testimonial:
   enable : true
-  bg_image_webp : "images/backgrounds/bckgrnd.webp"
+  bg_image_webp : "images/backgrounds/bg-testimonial.webp"
   testimonial_item :
     # testimonial item loop
     - name : Jonathon Andrew

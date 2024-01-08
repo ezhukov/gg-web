@@ -9,11 +9,11 @@ skill:
 
     # skill item loop
     - name : Continuous Integration Mastery
-      percent : 90%
+      percent : 99%
 
     # skill item loop
     - name : Automated Testing Proficiency
-      percent : 70%
+      percent : 75%
 
     # skill item loop
     - name : DevOps Innovation
