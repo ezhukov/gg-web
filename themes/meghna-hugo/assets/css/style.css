@@ -1183,7 +1183,8 @@ a:hover {
 }
 
 .client-meta span {
-  font-size: 12px;
+  font-size: 16px;
+  color: #effa;
 }
 
 .owl-pagination,
