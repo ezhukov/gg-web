@@ -47,20 +47,10 @@ name = "about"
 url = "#about"
 weight = 1
 
-#[[Languages.en.menu.main]]
-#name = "services"
-#url = "#services"
-#weight = 2
-
 [[Languages.en.menu.main]]
 name = "services"
 url = "#services"
 weight = 2
-
-[[Languages.en.menu.main]]
-name = "skills"
-url = "#skills"
-weight = 3
 
 [[Languages.en.menu.main]]
 name = "team"
@@ -72,20 +62,10 @@ name = "testimonials"
 url = "#testimonial"
 weight = 5
 
-#[[Languages.en.menu.main]]
-#name = "blog"
-#url = "#blog"
-#weight = 6
-
 [[Languages.en.menu.main]]
 name = "contact"
 url = "#contact"
 weight = 6
-
-#[[Languages.en.menu.main]]
-#name = "themefisher"
-#url = "https://themefisher.com/"
-#weight = 8
 
 ############################# Default Parameters ##########################
 [params]

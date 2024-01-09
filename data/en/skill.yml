@@ -1,6 +1,6 @@
 ################################# Skill ##################################
 skill:
-  enable : true
+  enable : false
   title : Our Skills
   subtitle : Empowering Your Software, Simplifying Your Success
   content : "Green Glacier brings a suite of key skills: mastery in continuous integration, proficiency in automated testing, innovative DevOps practices, effective reduction of technical debt, development of scalable solutions, and adept implementation of feature flags. This combination ensures efficient, high-quality software releases, enhancing both the developer experience and the end-product, while keeping your operations agile and future-ready."
