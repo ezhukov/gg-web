@@ -19,12 +19,12 @@ service:
       content : "Utilizing feature flags to integrate new features early in the development process, avoiding integration problems at the release stage."
       
     # service item loop
-    - name : "Complex Branching Strategies"
+    - name : "Branching Strategies"
       icon : ti-palette # themify icon pack : https://themify.me/themify-icons
       content : "Simplifying development processes by minimizing complex branching strategies, focusing on continuous release of features and fixes."
       
     # service item loop
-    - name : "Managing Technical Debt"
+    - name : "Reducing Technical Debt"
       icon : ti-package # themify icon pack : https://themify.me/themify-icons
       content : "Offering solutions to identify and systematically reduce technical debt through continuous integration and automated testing, enabling more manageable and maintainable code over time."
       

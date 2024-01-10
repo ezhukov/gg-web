@@ -3,15 +3,14 @@ team:
   enable : true
   title : Our Team
   team_member :
-    # team member loop
+
     - name : Eugene Zhukov
       image_webp : images/team/eugene.webp
       designation : Founding partner
       content : 20 years of experience in software industry, specializing in release management, development workflows and continuous integration.
 
-    # team member loop
-    - name : John Doe
-      image_webp : images/clients/client1.webp
-      designation : Partner
-      content : Lorem ipsum dolor sit amet consectetur adipisicing elit. Aspernatur necessitatibus ullam, vel sed optio rem odit quis ratione non consequuntur.
+        #    - name : John Doe
+        #      image_webp : images/clients/client1.webp
+        #      designation : Partner
+        #      content : Lorem ipsum dolor sit amet consectetur adipisicing elit. Aspernatur necessitatibus ullam, vel sed optio rem odit quis ratione non consequuntur.
 
