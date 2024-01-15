@@ -1,6 +1,6 @@
 ################################# funfacts ##################################
 funfacts:
-  enable : true
+  enable : false
   bg_image_webp : images/backgrounds/bg-white-wall-stucco.webp
   counter_item:
     # counter item loop

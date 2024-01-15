@@ -6,17 +6,10 @@ contact:
     #  content : To reach us, email contact@greengalcier.tech
 
   # Contact details
-  #  contact_list:
-  #    - icon : ti-location-pin # themify icon pack : https://themify.me/themify-icons
-  #      info : "Espoo, Finland"
-      
+  contact_list:
+    - icon : ti-write # themify icon pack : https://themify.me/themify-icons
+      info : "VAT ID: FI28444105"
 
-  # Contact form
-  contact_form:
-    enable : false
-    form_action : https://formspree.io/f/xgernwvn
-    name : "Your Name"
-    email : "Your Email"
-    subject : "Subject"
-    message : "Message"
-    submit : "Submit"
+    - icon : ti-bar-chart-alt # themify icon pack : https://themify.me/themify-icons
+      info : "Business ID: 2844410-5"
+

@@ -57,15 +57,15 @@ name = "team"
 url = "#team"
 weight = 4
 
-[[Languages.en.menu.main]]
-name = "testimonials"
-url = "#testimonial"
-weight = 5
+#[[Languages.en.menu.main]]
+#name = "testimonials"
+#url = "#testimonial"
+#weight = 5
 
 [[Languages.en.menu.main]]
 name = "contact"
 url = "#contact"
-weight = 6
+weight = 5
 
 ############################# Default Parameters ##########################
 [params]
@@ -111,15 +111,15 @@ map_marker = "images/marker.png"
 
 [[params.social]]
 icon = "ti-linkedin" # themify icon pack : https://themify.me/themify-icons
-link = "https://google.com"
+link = "https://www.linkedin.com/company/green-glacier"
 
 #[[params.social]]
 #icon = "ti-dribbble" # themify icon pack : https://themify.me/themify-icons
 #link = "#"
 
-[[params.social]]
-icon = "ti-map" # themify icon pack : https://themify.me/themify-icons
-link = "https://google.com"
+#[[params.social]]
+#icon = "ti-map" # themify icon pack : https://themify.me/themify-icons
+#link = "https://google.com"
 
 
 ################################ English Language ########################
@@ -130,5 +130,5 @@ languageCode = "en-us"
 contentDir = "content/english"
 weight = 1
 home = "Home"
-copyright = "Copyright &copy; 2023 Green Glacier"
+copyright = "Copyright &copy; 2024 Green Glacier"
 
