@@ -2,6 +2,12 @@
 	<meta charset="utf-8">
 	<title>{{ .Title }}</title>
 
+    <meta property="og:type" content="website">
+    <meta property="og:description" content="{{ .Description }}">
+    <meta property="og:image" content="https://greenglacier.tech/images/preload.webp">
+    <meta property="og:url" content="https://greenglacier.tech">
+    <meta property="og:site_name" content="{{ .Title }}">
+
 	{{ "<!-- mobile responsive meta -->" | safeHTML }}
 	<meta name="viewport" content="width=device-width, initial-scale=1, maximum-scale=1">
 	<meta name="description" content="{{ with .Description }}{{ . }}{{ else }}{{ with site.Params.description }}{{ . }}{{ end }}{{ end }}">

@@ -71,7 +71,7 @@ weight = 5
 [params]
 logo = "images/logo.png"
 # Meta data
-description = "Boost your release process, cut time to market, cut expenses!"
+description = "Frequent Software Releases. Painlessly. With A Click Of A Button."
 #author = "Themefisher"
 # Google Analytics
 #google_analytics_id = "UA-204269546-1"
@@ -81,7 +81,7 @@ post_share = false
 # preloader
 [params.preloader]
 enable = true
-preloader = "images/preload.jpg"
+preloader = "images/preload.webp"
 
 # cookies
 [params.cookies]
