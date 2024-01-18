@@ -7,10 +7,12 @@ team:
     - name : Eugene Zhukov
       image_webp : images/team/eugene.webp
       designation : Founding partner
+      linkedin : https://www.linkedin.com/in/eugenezhukov
       content : Professional experience in software industry since 2004. Hands-on expertise coding, testing and hosting SaaS solutions. Specializing in continuous integration and release management.
 
     - name : Al Nikolov
       image_webp : images/team/al.webp
       designation : Partner
+      linkedin : https://www.linkedin.com/in/alexeynikolov
       content : Over 30 years oscillating between programming, OS administration, testing, and security. Specializing in Git, Python, and C; build engineering across multiple platforms and Behavior Driven Testing.
 

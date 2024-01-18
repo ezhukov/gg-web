@@ -31,6 +31,7 @@
             <h4>{{ .name }}</h4>
             <span>{{ .designation | markdownify}}</span>
             <p>{{ .content | markdownify }}</p>
+            <li class="list-inline-item"><a href="{{ .linkedin | safeURL }}"><i class="ti-linkedin"></i></a></li>
           </div>
         </div>
       </div>
