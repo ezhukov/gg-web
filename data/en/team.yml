@@ -7,10 +7,10 @@ team:
     - name : Eugene Zhukov
       image_webp : images/team/eugene.webp
       designation : Founding partner
-      content : 20 years of experience in software industry, specializing in release management, development workflows and continuous integration.
+      content : Professional experience in software industry since 2004. Hands-on expertise coding, testing and hosting SaaS solutions. Specializing in continuous integration and release management.
 
-        #    - name : John Doe
-        #      image_webp : images/clients/client1.webp
-        #      designation : Partner
-        #      content : Lorem ipsum dolor sit amet consectetur adipisicing elit. Aspernatur necessitatibus ullam, vel sed optio rem odit quis ratione non consequuntur.
+    - name : Al Nikolov
+      image_webp : images/team/al.webp
+      designation : Partner
+      content : Over 30 years oscillating between programming, OS administration, testing, and security. Specializing in Git, Python, and C; build engineering across multiple platforms and Behavior Driven Testing.
 
