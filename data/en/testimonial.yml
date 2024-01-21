@@ -1,17 +1,17 @@
 ################################# Testimonial #########################
 testimonial:
-  enable : false
+  enable : true
   bg_image_webp : "images/backgrounds/bg-testimonial.webp"
   testimonial_item :
     # testimonial item loop
     - name : John Doe
       image_webp : images/clients/client1.webp
-      date : Dec 26, 2023
+      title : VP of engineering at Sympa
       content : Lorem ipsum dolor sit amet, consectetur adipisicing elit. Praesentium minima ex, quia error, deserunt voluptatibus repellendus? Incidunt eligendi aliquam repellat molestias, vel sed optio rem odit quis ratione non consequuntur!
       
     # testimonial item loop
     - name : Jane Smith
       image_webp : images/clients/client2.webp
-      date : Dec 26, 2023
+      title : R&D director at Some Company
       content : Lorem ipsum dolor sit amet, consectetur adipisicing elit. Praesentium minima ex, quia error, deserunt voluptatibus repellendus? Incidunt eligendi aliquam repellat molestias, vel sed optio rem odit quis ratione non consequuntur!
 

@@ -10,6 +10,7 @@
 	<div class="container">
 		<div class="row">
 			<div class="col-xl-12">
+                <div class="testimonial-arrow-left">&#10094;</div>
 				{{"<!-- testimonial wrapper -->" | safeHTML}}
 				<div id="testimonials" class="wow fadeInUp" data-wow-duration="500ms" data-wow-delay="100ms">
 					{{ range .testimonial_item }}
@@ -25,7 +26,7 @@
 						<div class="client-info">
 							<div class="client-meta">
 								<h3>{{ .name }}</h3>
-								<span>{{ .date }}</span>
+								<span>{{ .title }}</span>
 							</div>
 							<div class="client-comment">
 								<p>{{ .content | markdownify }}</p>
@@ -35,6 +36,7 @@
 					{{"<!-- /testimonial single -->" | safeHTML}}
 					{{ end }}
 				</div>
+                <div class="testimonial-arrow-right">&#10095;</div>
 			</div>
 		</div>
 	</div>
