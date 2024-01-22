@@ -415,6 +415,51 @@ a:hover {
 /*=================================================================
   Navigation
 ==================================================================*/
+/* Hamburger icon */
+.navbar-toggler-icon {
+    display: inline-block;
+    width: 25px; /* Width of the icon */
+    height: 2px; /* Height of the middle bar */
+    background-color: #808080; /* Color of the bars */
+    position: relative;
+    transition: all 0.3s; /* Smooth transition */
+}
+
+/* Top and bottom bars of the hamburger */
+.navbar-toggler-icon::before,
+.navbar-toggler-icon::after {
+    content: "";
+    position: absolute;
+    left: 0;
+    width: 100%;
+    height: 2px; /* Height of the bars */
+    background-color: #808080; /* Color of the bars */
+    transition: all 0.3s; /* Smooth transition */
+}
+
+.navbar-toggler-icon::before {
+    top: -8px; /* Position of the top bar */
+}
+
+.navbar-toggler-icon::after {
+    bottom: -8px; /* Position of the bottom bar */
+}
+
+/* Cross icon */
+.navbar-toggler-icon.cross {
+    transform: rotate(45deg); /* Rotate middle bar to form one line of the cross */
+}
+
+.navbar-toggler-icon.cross::before {
+    transform: rotate(90deg); /* Rotate to form the other line of the cross */
+    top: 0;
+}
+
+.navbar-toggler-icon.cross::after {
+    transform: rotate(90deg); /* Rotate to form the other line of the cross */
+    bottom: 0;
+}
+
 .navigation {
   background-color: #1d2024;
   width: 100%;
