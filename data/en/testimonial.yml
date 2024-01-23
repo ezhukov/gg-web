@@ -10,8 +10,8 @@ testimonial:
       content : Lorem ipsum dolor sit amet, consectetur adipisicing elit. Praesentium minima ex, quia error, deserunt voluptatibus repellendus? Incidunt eligendi aliquam repellat molestias, vel sed optio rem odit quis ratione non consequuntur!
       
     # testimonial item loop
-    - name : John Smith
-      image_webp : images/clients/client1.webp
-      title : R&D director at Some Company
-      content : Lorem ipsum dolor sit amet, consectetur adipisicing elit. Praesentium minima ex, quia error, deserunt voluptatibus repellendus? Incidunt eligendi aliquam repellat molestias, vel sed optio rem odit quis ratione non consequuntur!
+    - name : Soma Muthumanickam
+      image_webp : images/clients/soma.webp
+      title : VP of Products & Engineering at Basemark
+      content : Al was doing a great job leading the Dev-Ops efforts at Basemark. He is very strong technically and we could always rely on him to get things done. I particularly appreciated his knowledge of modern BDD approaches.
 
