@@ -7,11 +7,13 @@ testimonial:
     - name : Arttu Heikkilä
       image_webp : images/clients/arttu.webp
       title : VP of Engineering at Sympa
+      linkedin : https://www.linkedin.com/in/arttu-heikkila
       content : Lorem ipsum dolor sit amet, consectetur adipisicing elit. Praesentium minima ex, quia error, deserunt voluptatibus repellendus? Incidunt eligendi aliquam repellat molestias, vel sed optio rem odit quis ratione non consequuntur!
       
     # testimonial item loop
     - name : Soma Muthumanickam
       image_webp : images/clients/soma.webp
       title : VP of Products & Engineering at Basemark
+      linkedin : https://www.linkedin.com/in/soma360
       content : Al was doing a great job leading the DevOps efforts at Basemark. He is very strong technology-wise, and we could always rely on him to get things done. I particularly appreciated his knowledge of modern Behavior Driven Development approaches.
 
