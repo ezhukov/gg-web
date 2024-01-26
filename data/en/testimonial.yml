@@ -8,7 +8,7 @@ testimonial:
       image_webp : images/clients/arttu.webp
       title : VP of Engineering at Sympa
       linkedin : https://www.linkedin.com/in/arttu-heikkila
-      content : Lorem ipsum dolor sit amet, consectetur adipisicing elit. Praesentium minima ex, quia error, deserunt voluptatibus repellendus? Incidunt eligendi aliquam repellat molestias, vel sed optio rem odit quis ratione non consequuntur!
+      content : Eugene was instrumental in kickstarting our DevOps efforts, virtually from the ground up. He skillfully implemented the practices and put the tooling in place, significantly accelerating product development. Moreover, he automated every step from development environments through to production, enhancing productivity, efficiency and reliability.
       
     # testimonial item loop
     - name : Soma Muthumanickam
