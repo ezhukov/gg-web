@@ -1,17 +1,19 @@
 ################################# Testimonial #########################
 testimonial:
-  enable : false
+  enable : true
   bg_image_webp : "images/backgrounds/bg-testimonial.webp"
   testimonial_item :
     # testimonial item loop
-    - name : John Doe
-      image_webp : images/clients/client1.webp
-      date : Dec 26, 2023
-      content : Lorem ipsum dolor sit amet, consectetur adipisicing elit. Praesentium minima ex, quia error, deserunt voluptatibus repellendus? Incidunt eligendi aliquam repellat molestias, vel sed optio rem odit quis ratione non consequuntur!
+    - name : Arttu Heikkilä
+      image_webp : images/clients/arttu.webp
+      title : VP of Engineering at Sympa
+      linkedin : https://www.linkedin.com/in/arttu-heikkila
+      content : Eugene was instrumental in kickstarting our DevOps efforts, virtually from the ground up. He skillfully implemented the practices and put the tooling in place, significantly accelerating product development. Moreover, he automated every step from development environments through to production, enhancing productivity, efficiency and reliability.
       
     # testimonial item loop
-    - name : Jane Smith
-      image_webp : images/clients/client2.webp
-      date : Dec 26, 2023
-      content : Lorem ipsum dolor sit amet, consectetur adipisicing elit. Praesentium minima ex, quia error, deserunt voluptatibus repellendus? Incidunt eligendi aliquam repellat molestias, vel sed optio rem odit quis ratione non consequuntur!
+    - name : Soma Muthumanickam
+      image_webp : images/clients/soma.webp
+      title : VP of Products & Engineering at Basemark
+      linkedin : https://www.linkedin.com/in/soma360
+      content : Al was doing a great job leading the DevOps efforts at Basemark. He is very strong technology-wise, and we could always rely on him to get things done. I particularly appreciated his knowledge of modern Behavior Driven Development approaches.
 

@@ -57,15 +57,15 @@ name = "team"
 url = "#team"
 weight = 4
 
-#[[Languages.en.menu.main]]
-#name = "testimonials"
-#url = "#testimonial"
-#weight = 5
+[[Languages.en.menu.main]]
+name = "testimonials"
+url = "#testimonial"
+weight = 5
 
 [[Languages.en.menu.main]]
 name = "contact"
 url = "#contact"
-weight = 5
+weight = 6
 
 ############################# Default Parameters ##########################
 [params]

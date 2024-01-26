@@ -59,12 +59,17 @@ jQuery(function ($) {
 	/*	Testimonial Carousel
 	/* =========================================================================  */
 
-	$("#testimonials").slick({
-		infinite: true,
-		arrows: false,
-		autoplay: true,
-		autoplaySpeed: 4000
-	});
+    $('#testimonials').slick({
+      dots: true,
+      infinite: true,
+      speed: 300,
+      slidesToShow: 1,
+      adaptiveHeight: false,
+      autoplay: true,
+      autoplaySpeed: 4000,
+      prevArrow: '.testimonial-arrow-left',
+      nextArrow: '.testimonial-arrow-right'
+    });
 
 	/* ========================================================================= */
 	/*	animation scroll js
@@ -144,3 +149,4 @@ jQuery(function ($) {
 	});
 
 });
+

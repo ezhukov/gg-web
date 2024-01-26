@@ -1238,7 +1238,7 @@ a:hover {
 }
 
 .client-meta span {
-  font-size: 16px;
+  font-size: 21px;
   color: #effa;
 }
 
@@ -1300,6 +1300,67 @@ a:hover {
 
 #our-clients .item {
   margin: 10px;
+}
+
+#testimonials {
+    position: relative;
+}
+
+.testimonial-arrow-left, .testimonial-arrow-right {
+    cursor: pointer;
+    position: absolute;
+    top: 42%; /* Centers vertically */
+    transform: translateY(-58%);
+    width: auto;
+    padding: 10px;
+    color: white;
+    font-size: 25px;
+    z-index: 10; /* Ensure it's above other elements */
+}
+
+.testimonial-arrow-left {
+    left: 7px;
+}
+
+.testimonial-arrow-right {
+    right: 7px;
+}
+
+.testimonial-arrow-left:hover, .testimonial-arrow-right:hover {
+  background-color: rgba(0,0,0,0.3);
+}
+
+.slick-dots {
+    /* Style for the dot navigation container */
+    text-align: center;
+    margin: 0;
+    padding: 10px 0;
+}
+
+.slick-dots li {
+    /* Style for each dot */
+    display: inline-block;
+    margin: 0 5px;
+}
+
+.slick-dots li button {
+    /* Style for the dot buttons */
+    font-size: 0; /* Hides the number/text */
+    line-height: 0;
+    display: block;
+    width: 10px; /* Size of the dot */
+    height: 10px; /* Size of the dot */
+    padding: 5px;
+    cursor: pointer;
+    color: transparent;
+    border: 0;
+    outline: none;
+    background: #aaaaaa; /* Color of the dot */
+    border-radius: 50%;
+}
+
+.slick-dots li.slick-active button {
+    background: #ffffff; /* Color of the active dot */
 }
 
 /*=================================================================

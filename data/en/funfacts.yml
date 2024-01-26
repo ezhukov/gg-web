@@ -1,20 +1,20 @@
 ################################# funfacts ##################################
 funfacts:
-  enable : false
+  enable : true
   bg_image_webp : images/backgrounds/bg-white-wall-stucco.webp
   counter_item:
     # counter item loop
-    - title : "Projects completed"
-      icon : "ti-archive" # themify icon pack : https://themify.me/themify-icons
-      count : "5"
+    - title : "Years of experience"
+      icon : "ti-briefcase" # themify icon pack : https://themify.me/themify-icons
+      count : "50"
 
     # counter item loop
-    - title : "Positive feedback"
-      icon : "ti-thumb-up" # themify icon pack : https://themify.me/themify-icons
-      count : "5"
+    - title : "Projects completed"
+      icon : "ti-check" # themify icon pack : https://themify.me/themify-icons
+      count : "25"
 
     # counter item loop
     - title : "Cups of Coffee"
       icon : "ti-game" # themify icon pack : https://themify.me/themify-icons
-      count : "258"
+      count : "17200"
 
