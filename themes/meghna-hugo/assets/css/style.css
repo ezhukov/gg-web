@@ -2459,15 +2459,15 @@ figcaption {
 .styled-table {
     margin: 10px auto;
     border-collapse: collapse;
-    font-size: 0.9em;
     font-family: sans-serif;
+    font-weight: bold;
     width: 100%;
     max-width: 100%;
     box-shadow: 0 0 20px rgba(0, 0, 0, 0.15);
 }
 
 .styled-table thead tr {
-    background-color: #30C0B0;
+    background-color: #3EA99F;
     color: #ffffff;
     text-align: left;
 }
@@ -2481,16 +2481,7 @@ figcaption {
     border-bottom: 1px solid #dddddd;
 }
 
-.styled-table tbody tr:nth-of-type(even) {
-    background-color: #f3f3f3;
-}
-
 .styled-table tbody tr:last-of-type {
     border-bottom: 2px solid #30C0B0;
-}
-
-.styled-table tbody tr.active-row {
-    font-weight: bold;
-    color: #009879;
 }
 
