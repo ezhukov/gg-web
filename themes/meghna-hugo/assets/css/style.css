@@ -469,6 +469,7 @@ a:hover {
   background-color: #1d2024;
   width: 100%;
   margin-bottom: 0;
+  position: fixed;
 }
 
 .navbar-dark .navbar-nav .active>.nav-link,
