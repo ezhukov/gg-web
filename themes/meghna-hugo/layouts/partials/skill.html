@@ -25,6 +25,42 @@
 				{{ end }}
 			</div>
 			<div class="col-lg-6">
+                <table class="styled-table">
+                    <thead>
+                        <tr>
+                            <th>RELEASE PROCESS</th>
+                            <th>GREEN GLACIER</th>
+                            <th>AVERAGE SAAS COMPANY</th>
+                        </tr>
+                    </thead>
+                    <tbody>
+                        <tr>
+                            <td>Release Preparation</td>
+                            <td>0 days</td>
+                            <td>several days</td>
+                        </tr>
+                        <tr>
+                            <td>Release Size</td>
+                            <td>small</td>
+                            <td>large</td>
+                        </tr>
+                        <tr>
+                            <td>Error Rate</td>
+                            <td>low</td>
+                            <td>high</td>
+                        </tr>
+                        <tr>
+                            <td>Resource Utilization</td>
+                            <td>low</td>
+                            <td>high</td>
+                        </tr>
+                        <tr>
+                            <td>Release Frequency</td>
+                            <td>high</td>
+                            <td>low</td>
+                        </tr>
+                    </tbody>
+                </table>
 				<ul class="skill-bar">
 					{{ $.Scratch.Set "counter" 0 }}
 					{{ range $index, $element:= .skill_item }}
