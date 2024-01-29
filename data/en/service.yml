@@ -11,7 +11,7 @@ service:
     # service item loop
     - name : "Managing Legacy Software"
       icon : ti-layout # themify icon pack : https://themify.me/themify-icons
-      content : "Implementing continuous integration and automated testing to gradually refactor and reduce technical debt without needing a complete rewrite."
+      content : "Implement continuous integration and automated testing to gradually refactor and reduce technical debt without needing a complete rewrite."
 
     # service item loop
     - name : "Feature Integration Assistance"
