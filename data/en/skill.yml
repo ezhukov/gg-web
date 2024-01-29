@@ -6,20 +6,3 @@ skill:
   content :
   image :
   skill_item :
-#  - name : Continuous Integration Mastery
-#    percent : 99%
-
-#  - name : Automated Testing Proficiency
-#    percent : 75%
-
-#  - name : DevOps Innovation
-#    percent : 85%
-
-#  - name : Technical Debt Reduction
-#    percent : 80%
-
-#  - name : Scalable Solution Development
-#    percent : 75%
-
-#  - name : Feature Flag Implementation
-#    percent : 75%
