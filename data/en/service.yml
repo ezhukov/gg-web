@@ -7,28 +7,19 @@ service:
     - name : "Streamlined Release Management"
       icon : ti-world # themify icon pack : https://themify.me/themify-icons
       content : "Tackle release delays with our streamlined approach, reduce the manual effort, implement efficient and automated workflows."
-      
+
     # service item loop
     - name : "Managing Legacy Software"
       icon : ti-layout # themify icon pack : https://themify.me/themify-icons
-      content : "Implementing continuous integration and automated testing to gradually refactor and reduce technical debt without needing a complete rewrite."
-      
+      content : "Implement continuous integration and automated testing to gradually refactor and reduce technical debt without needing a complete rewrite."
+
     # service item loop
     - name : "Feature Integration Assistance"
       icon : ti-blackboard # themify icon pack : https://themify.me/themify-icons
       content : "Utilizing feature flags to integrate new features early in the development process, avoiding integration problems at the release stage."
-      
+
     # service item loop
-    - name : "Branching Strategies"
+    - name : "Source Code Management"
       icon : ti-palette # themify icon pack : https://themify.me/themify-icons
-      content : "Simplifying development processes by minimizing complex branching strategies, focusing on continuous release of features and fixes."
-      
-    # service item loop
-    - name : "Reducing Technical Debt"
-      icon : ti-package # themify icon pack : https://themify.me/themify-icons
-      content : "Offering solutions to identify and systematically reduce technical debt through continuous integration and automated testing, enabling more manageable and maintainable code over time."
-      
-    # service item loop
-    - name : "Easy Software Deployments"
-      icon : ti-pulse # themify icon pack : https://themify.me/themify-icons
-      content : "Reduce delays caused by fragmented code repos and last-minute integration issues. Ensure consistent and reliable software deployments."
+      content : "Simplify development process by minimizing complex branching strategies. Optimize fragmented code repositories for a reliable CI."
+

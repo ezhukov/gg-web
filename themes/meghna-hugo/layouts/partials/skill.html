@@ -18,6 +18,42 @@
 		</div>
 		<div class="row">
 			<div class="col-lg-6">
+                <table class="styled-table">
+                    <thead>
+                        <tr>
+                            <th>Release Process</th>
+                            <th><i class="ti-check"/></th>
+                            <th><i class="ti-close"/></th>
+                        </tr>
+                    </thead>
+                    <tbody>
+                        <tr>
+                            <td>Release Preparation</td>
+                            <td>none</td>
+                            <td>several days</td>
+                        </tr>
+                        <tr>
+                            <td>Release Size</td>
+                            <td>small</td>
+                            <td>large</td>
+                        </tr>
+                        <tr>
+                            <td>Error Rate</td>
+                            <td>low</td>
+                            <td>high</td>
+                        </tr>
+                        <tr>
+                            <td>Resource Utilization</td>
+                            <td>very low</td>
+                            <td>high</td>
+                        </tr>
+                        <tr>
+                            <td>Release Frequency</td>
+                            <td>high</td>
+                            <td>low</td>
+                        </tr>
+                    </tbody>
+                </table>
 				<h2>{{ .subtitle | markdownify }}</h2>
 				<p> {{ .content | markdownify }}</p>
 				{{ with .image }}
@@ -25,6 +61,42 @@
 				{{ end }}
 			</div>
 			<div class="col-lg-6">
+                <table class="styled-table">
+                    <thead>
+                        <tr>
+                            <th>Ways of Working</th>
+                            <th><i class="ti-check"/></th>
+                            <th><i class="ti-close"/></th>
+                        </tr>
+                    </thead>
+                    <tbody>
+                        <tr>
+                            <td>Branching Strategy</td>
+                            <td>simple</td>
+                            <td>complex</td>
+                        </tr>
+                        <tr>
+                            <td>Feature Flags</td>
+                            <td>yes</td>
+                            <td>no</td>
+                        </tr>
+                        <tr>
+                            <td>Automated Testing</td>
+                            <td>yes</td>
+                            <td>no</td>
+                        </tr>
+                        <tr>
+                            <td>CI Environment</td>
+                            <td>yes</td>
+                            <td>no</td>
+                        </tr>
+                        <tr>
+                            <td>Technical Debt</td>
+                            <td>low</td>
+                            <td>high</td>
+                        </tr>
+                    </tbody>
+                </table>
 				<ul class="skill-bar">
 					{{ $.Scratch.Set "counter" 0 }}
 					{{ range $index, $element:= .skill_item }}

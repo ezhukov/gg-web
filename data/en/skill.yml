@@ -1,31 +1,8 @@
 ################################# Skill ##################################
 skill:
-  enable : false
-  title : Our Skills
-  subtitle : Empowering Your Software, Simplifying Your Success
-  content : "Green Glacier brings a suite of key skills: mastery in continuous integration, proficiency in automated testing, innovative DevOps practices, effective reduction of technical debt, development of scalable solutions, and adept implementation of feature flags. This combination ensures efficient, high-quality software releases, enhancing both the developer experience and the end-product, while keeping your operations agile and future-ready."
-  image : images/about/company-growth.webp
+  enable : true
+  title : the benchmarks
+  subtitle :
+  content :
+  image :
   skill_item :
-
-    # skill item loop
-    - name : Continuous Integration Mastery
-      percent : 99%
-
-    # skill item loop
-    - name : Automated Testing Proficiency
-      percent : 75%
-
-    # skill item loop
-    - name : DevOps Innovation
-      percent : 85%
-
-    - name : Technical Debt Reduction
-      percent : 80%
-
-    # skill item loop
-    - name : Scalable Solution Development
-      percent : 75%
-
-    # skill item loop
-    - name : Feature Flag Implementation
-      percent : 75%

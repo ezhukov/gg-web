@@ -469,6 +469,7 @@ a:hover {
   background-color: #1d2024;
   width: 100%;
   margin-bottom: 0;
+  position: fixed;
 }
 
 .navbar-dark .navbar-nav .active>.nav-link,
@@ -2451,3 +2452,42 @@ figcaption {
 .cookie-box-hide {
   display: none;
 }
+
+.styled-table {
+    margin: 10px auto;
+    border-collapse: collapse;
+    font-family: sans-serif;
+    font-weight: bold;
+    width: 100%;
+    max-width: 100%;
+    box-shadow: 0 0 20px rgba(0, 0, 0, 0.15);
+}
+
+.styled-table thead tr {
+    background-color: #3EA99F;
+    color: #ffffff;
+    text-align: left;
+}
+
+.styled-table th {
+    font-size: 20px;
+    font-weight: normal;
+}
+
+.styled-table th i {
+    font-weight: bold;
+}
+
+.styled-table th,
+.styled-table td {
+    padding: 12px 15px;
+}
+
+.styled-table tbody tr {
+    border-bottom: 1px solid #dddddd;
+}
+
+.styled-table tbody tr:last-of-type {
+    border-bottom: 2px solid #30C0B0;
+}
+

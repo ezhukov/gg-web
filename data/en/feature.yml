@@ -3,7 +3,7 @@ feature:
   enable : true
   image_webp : images/about/about-company.webp
   title : Modern approach to software release management
-  content : We specialize in efficient, automated processes that save time and reduce costs, while enhancing the quality of software delivery. Our expertise in DevOps and continuous integration ensures rapid, reliable updates, empowering your team with a modern, streamlined workflow. Partner with us to gain a competitive edge through superior technology solutions.
+  content : We specialize in efficient, automated processes that save time and reduce costs while enhancing the quality of software delivery. Partner with us to gain a competitive edge through superior technology solutions.
 
   feature_item : 
       # feature item loop
