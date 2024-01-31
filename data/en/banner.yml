@@ -6,5 +6,5 @@ banner:
   content: Release early. Release often. Cut time to market, cut expenses, deliver timely updates to your customers! Check out how we do it!
   button:
     enable : true
-    label : "Contact us"
+    label : "Get in Touch"
     link : "#contact"
