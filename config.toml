@@ -74,7 +74,7 @@ logo = "images/logo.png"
 description = "Frequent Software Releases. Painlessly. With A Click Of A Button."
 #author = "Themefisher"
 # Google Analytics
-#google_analytics_id = "UA-204269546-1"
+google_analytics_id = "G-ZE2LMSNZCX"
 # post share
 post_share = false
 
