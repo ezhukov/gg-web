@@ -7,9 +7,15 @@ contact:
 
   # Contact details
   contact_list:
-    - icon : ti-write # themify icon pack : https://themify.me/themify-icons
+    - icon : ti-angle-right # themify icon pack : https://themify.me/themify-icons
+      info : "Company: NoStack Oy"
+
+    - icon : ti-angle-right # themify icon pack : https://themify.me/themify-icons
+      info : "Business ID: 2844410-5"
+
+    - icon : ti-angle-right # themify icon pack : https://themify.me/themify-icons
       info : "VAT ID: FI28444105"
 
-    - icon : ti-bar-chart-alt # themify icon pack : https://themify.me/themify-icons
-      info : "Business ID: 2844410-5"
+    - icon : ti-angle-right # themify icon pack : https://themify.me/themify-icons
+      info : "Location: Espoo, Finland"
 
