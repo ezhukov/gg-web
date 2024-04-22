@@ -2,7 +2,7 @@
 feature:
   enable : true
   image_webp : images/about/about-company.webp
-  title : Modern approach to software release management
+  title : Development speed is your competitive advantage
   content : We specialize in efficient, automated processes that save time and reduce costs while enhancing the quality of software delivery. Partner with us to gain a competitive edge through superior technology solutions.
 
   feature_item : 
