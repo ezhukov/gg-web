@@ -6,7 +6,7 @@ testimonial:
     # testimonial item loop
     - name : Arttu Heikkilä
       image_webp : images/clients/arttu.webp
-      title : VP of Engineering at Sympa
+      title : CTO at Sympa
       linkedin : https://www.linkedin.com/in/arttu-heikkila
       content : Eugene was instrumental in kickstarting our DevOps efforts, virtually from the ground up. He skillfully implemented the practices and put the tooling in place, significantly accelerating product development. Moreover, he automated every step from development environments through to production, enhancing productivity, efficiency and reliability.
       
