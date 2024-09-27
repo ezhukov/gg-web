@@ -30,6 +30,15 @@
 					{{ end }}
 				</div>
 			</div>
+            <div id="map" style="width: 100%; height: 400px"></div>
+            <script>
+              const map = new maplibregl.Map({
+                style: 'https://tiles.openfreemap.org/styles/positron',
+                center: [24.803, 60.182],
+                zoom: 11.3,
+                container: 'map',
+              })
+            </script>
 
 			{{"<!-- Contact Form -->" | safeHTML}}
 			{{ if .contact_form.enable }}
